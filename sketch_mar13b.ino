@@ -8,6 +8,8 @@
 
   Rev 1 - Initial version
   Rev 2 - Update for MSEduino v. 2
+  
+  Edited By: Hamza Shaikh
 
 */
 
